@@ -1,0 +1,2 @@
+# Requires: temporal-postponement
+# (Not available on PyPI)
